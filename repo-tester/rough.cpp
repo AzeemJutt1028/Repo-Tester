@@ -16,6 +16,19 @@ int main()
 	{
 		cout << "Lun te char";
 	}
+	while(true)
+	{
+		cout << "Kutti ke bache request utha";
+		if (true)
+		{
+			cout << "Randi ka bacha";
+		}
+		else
+		{
+			cout << "Lun te char";
+		}
+		break;
+	}
 	system("pause");
 	return 0;
 }
