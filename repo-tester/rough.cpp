@@ -21,7 +21,7 @@ int main()
 		cout << "Kutti ke bache request utha";
 		if (true)
 		{
-			cout << "Randi ka bacha";
+			cout << "Randi ka bachha";
 		}
 		else
 		{
